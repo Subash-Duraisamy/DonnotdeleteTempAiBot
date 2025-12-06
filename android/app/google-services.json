@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "369759286645",
+    "firebase_url": "https://gps-tracker-demo-e5667-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gps-tracker-demo-e5667",
+    "storage_bucket": "gps-tracker-demo-e5667.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369759286645:android:2dd676c19d87cf2ed28f3c",
+        "android_client_info": {
+          "package_name": "com.subash.figalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369759286645-rf2ds3nnbhn4d7i9llf2gi1k3pjkbpcg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.subash.figalarm",
+            "certificate_hash": "c769e5e975f8fe32ea5255482257a999ecb13bea"
+          }
+        },
+        {
+          "client_id": "369759286645-9kd9ki366n7rlh7uteba5c94eitgqbbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Rqciu_1roXUAtOnYAu2-v73mGLR0c0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369759286645-2qcft7cupde1cvbonni1fku1l3640933.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
